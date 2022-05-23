@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#caixa1, #caixa2, #caixa3, #caixa4, #caixa5{
+
+    
+    height: 100vw;
+    position: relative;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+span{
+    position:absolute;
+    left: 0%;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    opacity: 0.7;
+    
+
+}
+
+p{
+    
+   padding: 18px;
+   font-size: 25px;
+   letter-spacing: 4px;
+   
+  
+}
+    
+
+
+
+#caixa1{
+    background-image: url("./imagens/Demon-Slayer-Tanjirou-e-Nezuko-Wallpaper-Full-HD-Anime-1.jpg");
+    
+}
+
+#caixa2{
+    background-image: url("./imagens/dragon-ball.jpg");
+   
+}
+
+#caixa3{
+    background-image: url("./imagens/HXH.jpg");
+   
+}
+
+#caixa4{
+    background-image: url("./imagens/sword_art_online.jpg");
+   
+}
+
+#caixa5{
+    background-image: url("./imagens/The-Promised-Neverland.jpg");
+   
+}
+
+
+
+    
+
+    
+
